@@ -1,0 +1,19 @@
+.paginator {
+  list-style: none;
+  display: flex;
+  padding: 0;
+  margin: 0;
+  justify-content: center;
+  gap: 10px;
+}
+
+.paginator__item {
+  font-size: 20px;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.paginator__item_selected {
+  border: 1px solid #ddd;
+  font-weight: bold;
+}

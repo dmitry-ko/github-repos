@@ -1,0 +1,1 @@
+export { Paginator } from "./ui/paginator.tsx";
